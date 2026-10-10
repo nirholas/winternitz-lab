@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "winternitz-lab"
+abstract: "Explore transaction sizing for Winternitz one-time signature payloads."
+repository-code: "https://github.com/nirholas/winternitz-lab"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
